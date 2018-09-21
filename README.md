@@ -1,5 +1,4 @@
-#contentmodify
-
+# contentmodify
 Akronyme, Abkürzungen, Sprachwechsel, Highlight und Strong automatisieren
 
 Die folgenden Kontent-Teile werden automatisch mit HTML-Tags definiert:
