@@ -42,6 +42,6 @@ $GLOBALS['TL_DCA']['tl_contentmodify']['fields']['class']['label'] = &$GLOBALS['
 $GLOBALS['TL_DCA']['tl_contentmodify']['fields']['class']['exclude'] = true;
 $GLOBALS['TL_DCA']['tl_contentmodify']['fields']['class']['inputType'] = 'text';
 $GLOBALS['TL_DCA']['tl_contentmodify']['fields']['class']['default'] = 'highlight';
-$GLOBALS['TL_DCA']['tl_contentmodify']['fields']['class']['eval'] = array('mandatory'=>true, 'maxlength'=>100);
+$GLOBALS['TL_DCA']['tl_contentmodify']['fields']['class']['eval'] = array('tl_class'=>'w50', 'mandatory'=>true, 'maxlength'=>100);
 
 ?>
